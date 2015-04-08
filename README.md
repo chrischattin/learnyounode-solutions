@@ -1,2 +1,2 @@
-# learnyounode-solutions
-Solutions plus official solutions to the learnyounode exercises.
+# Learnyounode Solutions
+Solutions to the learnyounode exercises.
